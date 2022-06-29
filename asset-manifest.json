@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/schooladmission/static/css/main.1631f278.css",
+    "main.js": "/schooladmission/static/js/main.42a0848e.js",
+    "static/media/schoollogo.png": "/schooladmission/static/media/schoollogo.ab1f9c9324b56faea0f5.png",
+    "index.html": "/schooladmission/index.html",
+    "main.1631f278.css.map": "/schooladmission/static/css/main.1631f278.css.map",
+    "main.42a0848e.js.map": "/schooladmission/static/js/main.42a0848e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1631f278.css",
+    "static/js/main.42a0848e.js"
+  ]
+}
